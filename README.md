@@ -14,7 +14,7 @@ A list of items:
 * another item
 * the last item
 
-A now a piece of code
+And now a piece of code
 ```
 cd /data
 ls -l
